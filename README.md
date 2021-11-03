@@ -8,11 +8,12 @@ sample for docker images
 | Container Registry | crSampleDocker ($0.222 per day) |
 | Container Instance 1 | ciSampleDocker |
 | Container Instance 2 | ciSampleDockerv3 (with domain name) |
+| Container Instance 3 | cihelloworldlinux (from pre-build image) |
 
 
 #### Note: 
 * [Registry pricing](https://azure.microsoft.com/en-us/pricing/details/container-registry/#pricing ) 
-
+** The instance may charge money.
 
 #### Steps
 
